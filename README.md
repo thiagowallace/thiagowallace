@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="250" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" />
 </p>
 
 ---
