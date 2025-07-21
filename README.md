@@ -83,7 +83,7 @@ Sou graduando em Engenharia Cartográfica e de Agrimensura pela UFRGS, com sóli
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Thiago%20Wallace-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowallace)  
-[![Email](https://img.shields.io/badge/-thiagowallace@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagowallace@email.com)
+[![Email](https://img.shields.io/badge/-thiagowallacepaz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagowallace@email.com)
 
 ---
 
