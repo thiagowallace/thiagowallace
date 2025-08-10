@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Thiago Wallace</h1>
 <p align="center">
-  Engenheiro Cartógrafo | Geotecnologias & IA | Data Analytics
+  Engenheiro Cartógrafo e Agrimensor| Geotecnologias & IA | Data Analytics
 </p>
 
 <p align="center">
