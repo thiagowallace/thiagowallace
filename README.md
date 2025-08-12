@@ -40,7 +40,6 @@ Sou graduando em Engenharia Cartográfica e de Agrimensura pela UFRGS, com sóli
 #### 🎯 Detecção e Contagem de Videiras com Redes Neurais Convolucionais
 > Projeto de TCC utilizando CNNs, ortomosaicos gerados por VANTs e índices vegetativos (NDVI/NDRE) para análise de áreas com cultivo de uvas.
 
-[🔗 Acesse o repositório](https://github.com/thiagowallace/deteccao-videiras-CNN)
 
 <img src="https://github.com/thiagowallace/deteccao-videiras-CNN/assets/your-image.gif" width="500"/>
 
@@ -49,7 +48,6 @@ Sou graduando em Engenharia Cartográfica e de Agrimensura pela UFRGS, com sóli
 #### 📐 Levantamento Cadastral Multifinalitário com GNSS e Estação Total
 > Aplicação prática para mapeamento de feições urbanas com uso de RTK e estação total, integrando o banco de dados geográfico no QGIS.
 
-[🔗 Acesse o repositório](https://github.com/thiagowallace/levantamento-multifinalitario)
 
 <img src="https://github.com/thiagowallace/levantamento-multifinalitario/assets/cadastral-image.jpg" width="500"/>
 
@@ -58,7 +56,6 @@ Sou graduando em Engenharia Cartográfica e de Agrimensura pela UFRGS, com sóli
 #### 🌍 GeoAnalytics com Python e Pandas
 > Pipeline de análises geoespaciais com cruzamento de dados, visualização de padrões e indicadores espaciais com Python.
 
-[🔗 Acesse o repositório](https://github.com/thiagowallace/geoanalytics-py)
 
 ---
 
