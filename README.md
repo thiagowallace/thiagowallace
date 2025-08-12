@@ -17,6 +17,7 @@ Sou graduando em Engenharia Cartográfica e de Agrimensura pela UFRGS, com sóli
 - 🤖 Trabalho de Conclusão: CNNs aplicadas à agricultura com ortomosaicos de VANTs
 - 🚁 Experiência com QGIS, ArcGIS Pro, GNSS, VANTs, NDVI, NDRE
 - 📊 Apaixonado por análises espaciais, visualizações e IA aplicada
+- 📈 Análise/ciencia de dados como hobby e profissão!
 
 ---
 
