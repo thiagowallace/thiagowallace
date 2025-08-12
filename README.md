@@ -41,15 +41,11 @@ Sou graduando em Engenharia Cartográfica e de Agrimensura pela UFRGS, com sóli
 > Projeto de TCC utilizando CNNs, ortomosaicos gerados por VANTs e índices vegetativos (NDVI/NDRE) para análise de áreas com cultivo de uvas.
 
 
-<img src="https://github.com/thiagowallace/deteccao-videiras-CNN/assets/your-image.gif" width="500"/>
-
 ---
 
 #### 📐 Levantamento Cadastral Multifinalitário com GNSS e Estação Total
 > Aplicação prática para mapeamento de feições urbanas com uso de RTK e estação total, integrando o banco de dados geográfico no QGIS.
 
-
-<img src="https://github.com/thiagowallace/levantamento-multifinalitario/assets/cadastral-image.jpg" width="500"/>
 
 ---
 
